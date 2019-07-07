@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProyectoColaboracion</string>
+    <string name="ingresar_mensaje">Escriba un mensaje</string>
+    <string name="ingresar_rut">Ej. 12.345.678-9</string>
+</resources>
